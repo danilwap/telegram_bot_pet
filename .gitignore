@@ -1,1 +1,3 @@
 .venv
+src/data/database.db
+src/data/config.py
